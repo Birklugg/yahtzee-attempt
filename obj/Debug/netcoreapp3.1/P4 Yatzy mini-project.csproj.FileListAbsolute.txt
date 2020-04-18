@@ -1,0 +1,11 @@
+C:\Users\Leon\P4 Yatzy mini-project\obj\Debug\netcoreapp3.1\P4 Yatzy mini-project.csprojAssemblyReference.cache
+C:\Users\Leon\P4 Yatzy mini-project\obj\Debug\netcoreapp3.1\P4 Yatzy mini-project.AssemblyInfoInputs.cache
+C:\Users\Leon\P4 Yatzy mini-project\obj\Debug\netcoreapp3.1\P4 Yatzy mini-project.AssemblyInfo.cs
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.exe
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.deps.json
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.runtimeconfig.json
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.runtimeconfig.dev.json
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.dll
+C:\Users\Leon\P4 Yatzy mini-project\bin\Debug\netcoreapp3.1\P4 Yatzy mini-project.pdb
+C:\Users\Leon\P4 Yatzy mini-project\obj\Debug\netcoreapp3.1\P4 Yatzy mini-project.dll
+C:\Users\Leon\P4 Yatzy mini-project\obj\Debug\netcoreapp3.1\P4 Yatzy mini-project.pdb
